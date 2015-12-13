@@ -1,0 +1,1 @@
+{"uuid": "doppler@alexandre.dufournet.gmail.com", "description": "Like redshift or f.lux, but re-implemented as a shell extension", "name": "Doppler", "shell-version": ["3.18.3"]}
