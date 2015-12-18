@@ -28,7 +28,7 @@ const DopplerState = new Lang.Class({
 });
 
 function _newFrame() {
-  global.stage.scale_y = 1.0;
+  global.stage.queue_redraw();
 }
 
 var timeline;
